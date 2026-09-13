@@ -1,3 +1,6 @@
+**Course:** Study Week at OST (Eastern Switzerland University of Applied Sciences)  
+**Author:** Jonathan
+
 # MapStoriesLLM — OSM Data Enrichment with AI
 
 A Python project developed during the Study Week at **OST (Eastern Switzerland University of Applied Sciences)**. This tool enriches OpenStreetMap (OSM) restaurant data by extracting opening hours from official websites using Large Language Models (LLMs) and comparing them with existing OSM records.
@@ -49,3 +52,5 @@ This project was completed during a one-week practical training. Some configurat
 
 ## 📄 License
 MIT License — see [LICENSE](https://github.com/Project-Map-Stories/LLM-Integration/blob/main/LICENSE) file for details.
+***
+Built with ❤️ by the MapStories Team (Emilia & Daria)
